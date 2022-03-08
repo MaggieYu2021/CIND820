@@ -1,6 +1,6 @@
 # CIND820
 
-******Stages of the project
+****** Stages of the project ******
  
 1, Add the index to the dataset
 
@@ -21,7 +21,7 @@ ARIMA Model with p = 2, d = 1, and q = 3 in Condo
 
 
 
-******Content of the repository
+****** Content of the repository ******
 
 1, TimeSeriesAnalasis_V1.0   ----- technical reports in HTML format
 
